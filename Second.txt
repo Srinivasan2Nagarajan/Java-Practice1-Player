@@ -1,1 +1,3 @@
 Hi this is second git project
+
+Changes that i made.
